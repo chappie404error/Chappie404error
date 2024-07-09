@@ -34,7 +34,7 @@
 
 ###
 
-  <img width="300" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chappie404error&size_weight=0.0005&count_weight=0.1&layout=compact&theme=vision-friendly-dark">
+
 
 ###
 
