@@ -33,8 +33,11 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="c logo"/>
-    <img width="12" />
+  <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="c logo"/>
+  <img width="12"/>
+          
           
 </div> 
 
